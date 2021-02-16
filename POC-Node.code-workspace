@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "express-demo"
+		},
+		{
+			"path": "D:\\GautamBackup\\JavaScript\\js-oop"
+		},
+		{
+			"path": "D:\\GautamBackup\\JavaScript\\calculator"
+		},
+		{
+			"path": "D:\\GautamBackup\\JavaScript\\weather-app"
+		},
+		{
+			"path": "async-demo"
+		},
+		{
+			"path": "mongo-demo"
+		},
+		{
+			"path": "vidly"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "weather-app"
+	}
+}
